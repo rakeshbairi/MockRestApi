@@ -1,0 +1,25 @@
+{
+"Clients":
+[
+  {
+    "name": "Rakesh Bairi",
+    "mobileNo": "89744774",
+    "email": "rakesh@gmail.com",
+    "address": "Mumbai,Worli",
+    "id": 1,
+    "addedDate": "0001-01-01T00:00:00",
+    "modifiedDate": "0001-01-01T00:00:00",
+    "ipAddress": null
+  },
+  {
+    "name": "Manish Kumar",
+    "mobileNo": "98892222",
+    "email": "manish@gmail.com",
+    "address": "Darbhanga,UP",
+    "id": 2,
+    "addedDate": "0001-01-01T00:00:00",
+    "modifiedDate": "0001-01-01T00:00:00",
+    "ipAddress": null
+  }
+]
+}
