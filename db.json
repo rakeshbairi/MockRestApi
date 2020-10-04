@@ -21,5 +21,43 @@
     "modifiedDate": "0001-01-01T00:00:00",
     "ipAddress": null
   }
+],
+  "ItemType":
+  [
+  {
+    "typeName": "Potato",
+    "name": "Yellow Potato",
+    "id": 1,
+    "addedDate": "0001-01-01T00:00:00",
+    "modifiedDate": "0001-01-01T00:00:00",
+    "ipAddress": null
+  },
+  {
+    "typeName": "Onion",
+    "name": "White-Onion",
+    "id": 2,
+    "addedDate": "0001-01-01T00:00:00",
+    "modifiedDate": "0001-01-01T00:00:00",
+    "ipAddress": null
+  }
+],
+  "SalesTimePrices":
+  [
+  {
+    "priceDateTime": "2020-09-27T06:12:00",
+    "perQuintolCost": 1200,
+    "id": 1,
+    "addedDate": "0001-01-01T00:00:00",
+    "modifiedDate": "0001-01-01T00:00:00",
+    "ipAddress": null
+  },
+  {
+    "priceDateTime": "2020-09-27T12:15:00",
+    "perQuintolCost": 1600,
+    "id": 2,
+    "addedDate": "0001-01-01T00:00:00",
+    "modifiedDate": "0001-01-01T00:00:00",
+    "ipAddress": null
+  }
 ]
 }
